@@ -1,7 +1,7 @@
 <div class="box light">
 
 	<div class="row">
-		<div class="col-lg-6">
+		<div class="col-lg-12">
 			<div class="alert alert-info">{$MGLANG->T('serverLocationInfo')}</div>
 			<div class="panel panel-default">
 				<div class="panel-heading">{$MGLANG->T('serverLocation')}</div>
